@@ -1,0 +1,24 @@
+stage_number,type,date,start_finish,distance,link
+1,Hilly,Sat 07/01/2023,Bilbao > Bilbao,182 km,https://www.letour.fr/en/stage-1
+2,Hilly,Sun 07/02/2023,Vitoria-Gasteiz > Saint-Sébastien,209 km,https://www.letour.fr/en/stage-2
+3,Flat,Mon 07/03/2023,Amorebieta-Etxano > Bayonne,193.5 km,https://www.letour.fr/en/stage-3
+4,Flat,Tue 07/04/2023,Dax > Nogaro,182 km,https://www.letour.fr/en/stage-4
+5,Mountain,Wed 07/05/2023,Pau > Laruns,163 km,https://www.letour.fr/en/stage-5
+6,Mountain,Thu 07/06/2023,Tarbes > Cauterets-Cambasque,145 km,https://www.letour.fr/en/stage-6
+7,Flat,Fri 07/07/2023,Mont-de-Marsan > Bordeaux,170 km,https://www.letour.fr/en/stage-7
+8,Hilly,Sat 07/08/2023,Libourne > Limoges,201 km,https://www.letour.fr/en/stage-8
+9,Mountain,Sun 07/09/2023,Saint-Léonard-de-Noblat > Puy de Dôme,182.5 km,https://www.letour.fr/en/stage-9
+-,Rest Day,Mon 07/10/2023,Clermont-Ferrand,,https://www.letour.fr/en/rest-1
+10,Hilly,Tue 07/11/2023,Vulcania > Issoire,167.5 km,https://www.letour.fr/en/stage-10
+11,Flat,Wed 07/12/2023,Clermont-Ferrand > Moulins,180 km,https://www.letour.fr/en/stage-11
+12,Hilly,Thu 07/13/2023,Roanne > Belleville-en-Beaujolais,169 km,https://www.letour.fr/en/stage-12
+13,Mountain,Fri 07/14/2023,Châtillon-sur-Chalaronne > Grand Colombier,138 km,https://www.letour.fr/en/stage-13
+14,Mountain,Sat 07/15/2023,Annemasse > Morzine Les Portes du Soleil,152 km,https://www.letour.fr/en/stage-14
+15,Mountain,Sun 07/16/2023,Les Gets les portes du soleil > Saint-Gervais Mont-Blanc,179 km,https://www.letour.fr/en/stage-15
+-,Rest Day,Mon 07/17/2023,Saint-Gervais Mont-Blanc,,https://www.letour.fr/en/rest-2
+16,Individual time-trial,Tue 07/18/2023,Passy > Combloux,22.4 km,https://www.letour.fr/en/stage-16
+17,Mountain,Wed 07/19/2023,Saint-Gervais Mont-Blanc > Courchevel,166 km,https://www.letour.fr/en/stage-17
+18,Hilly,Thu 07/20/2023,Moûtiers > Bourg-en-Bresse,185 km,https://www.letour.fr/en/stage-18
+19,Flat,Fri 07/21/2023,Moirans-en-Montagne > Poligny,173 km,https://www.letour.fr/en/stage-19
+20,Mountain,Sat 07/22/2023,Belfort > Le Markstein Fellering,133.5 km,https://www.letour.fr/en/stage-20
+21,Flat,Sun 07/23/2023,Saint-Quentin-en-Yvelines > Paris Champs-Élysées,115.5 km,https://www.letour.fr/en/stage-21
